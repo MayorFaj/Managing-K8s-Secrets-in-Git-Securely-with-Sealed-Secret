@@ -1,4 +1,4 @@
-# Managing K8s Sgit ecrets Securely in **Git** with Sealed Secrets
+# Managing K8s Secrets Securely in **Git** with Sealed Secrets
 
 ## **Problem Statement**
 
